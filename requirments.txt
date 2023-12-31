@@ -1,0 +1,17 @@
+numpy
+pandas
+earthengine-api
+geopandas
+rasterio
+geemap==0.17.2
+ipyleaflet==0.17
+jupyter
+notebook
+eemont
+geopy
+
+matplotlib
+opencv-python
+ipykernel
+gcsfs
+oauth2client
