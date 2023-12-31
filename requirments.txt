@@ -8,3 +8,4 @@ geemap==0.17.2
 ipyleaflet==0.17
 jupyter
 matplotlib
+shapely
